@@ -1,6 +1,3 @@
-<img width="800" height="450" alt="MENU-FINANCESBBISOLUTIONS-PowerBI-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/bc5544f8-de40-4ad5-9522-b90982d59b88" />
-<img width="800" height="450" alt="MENU-FINANCESBBISOLUTIONS-PowerBI-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/1b6feee9-6de6-4b10-9565-c1f6c0c1c5b6" />
-<div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=200&section=header&text=Smail%20Boutahor&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Consultant%20Freelance%20Power%20BI%20%7C%20Contr%C3%B4le%20de%20Gestion&descAlignY=75&descSize=20)
 
@@ -55,6 +52,7 @@ Analyse marketing et clients : segmentation des acheteurs, moteurs d'achat, et p
 
 ### 🪙 Crypto Dashboard
 Dashboard interactif de suivi des cryptomonnaies : évolution des prix, tendances de marché et comparaison entre actifs.
+<img width="800" height="450" alt="MENU-FINANCESBBISOLUTIONS-PowerBI-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/9634ccbe-fd35-4b01-833b-d95009a26510" />
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-crypto-dashboard)**
 
@@ -73,6 +71,7 @@ Analyse du marché immobilier : prix, tendances par zone géographique et facteu
 
 ### 🛒 Store Sales Dashboard
 Dashboard de pilotage des ventes retail : chiffre d'affaires, performance par magasin et par produit, KPI commerciaux clés.
+<img width="800" height="450" alt="MENU-FINANCESBBISOLUTIONS-PowerBI-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/1ee9354c-4495-4b2f-a282-87c420a2f99a" />
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-store-sales)**
 
