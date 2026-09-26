@@ -34,17 +34,6 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smail-erdg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=smail-erdg&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 📊 Projets phares
