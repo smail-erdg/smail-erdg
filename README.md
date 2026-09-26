@@ -45,6 +45,8 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 ### 📈 Finance & Campaign Analysis
 Analyse marketing et clients : segmentation des acheteurs, moteurs d'achat, et performance des campagnes marketing sur 5 pages interactives.
 
+
+
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-finance-campaign-analysis)**
 
 </td>
