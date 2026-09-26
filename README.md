@@ -1,3 +1,4 @@
+<div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=200&section=header&text=Smail%20Boutahor&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Consultant%20Freelance%20Power%20BI%20%7C%20Contr%C3%B4le%20de%20Gestion&descAlignY=75&descSize=20)
 
@@ -37,45 +38,37 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 
 ## 📊 Projets phares
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📈 Finance & Campaign Analysis
-Analyse marketing et clients : segmentation des acheteurs, moteurs d'achat, et performance des campagnes marketing sur 5 pages interactives.<img width="800" height="450" alt="MENU-FINANCESBBISOLUTIONS-PowerBI-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/eb65ee03-f56f-4b33-b300-b485ebb023a9" />
 
+Analyse marketing et clients : segmentation des acheteurs, moteurs d'achat, et performance des campagnes marketing sur 5 pages interactives.
+
+<img width="800" alt="Finance & Campaign Analysis" src="https://github.com/user-attachments/assets/eb65ee03-f56f-4b33-b300-b485ebb023a9" />
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-finance-campaign-analysis)**
 
-</td>
-<td width="50%">
+<br>
 
 ### 🪙 Crypto Dashboard
+
 Dashboard interactif de suivi des cryptomonnaies : évolution des prix, tendances de marché et comparaison entre actifs.
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-crypto-dashboard)**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br>
 
 ### 🏠 Housing Market Analysis
+
 Analyse du marché immobilier : prix, tendances par zone géographique et facteurs qui influencent la valeur des biens.
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-housing-analysis)**
 
-</td>
-<td width="50%">
+<br>
 
 ### 🛒 Store Sales Dashboard
+
 Dashboard de pilotage des ventes retail : chiffre d'affaires, performance par magasin et par produit, KPI commerciaux clés.
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-store-sales)**
-
-</td>
-</tr>
-</table>
 
 ---
 
