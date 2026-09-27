@@ -11,7 +11,7 @@
 
 </div>
 
----
+<br>
 
 ## 🧭 À propos de moi
 
@@ -34,51 +34,83 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 
 </div>
 
----
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:F2C811&height=3&section=header)
 
 ## 📊 Projets phares
 
+<br>
+
 ### 📈 Finance & Campaign Analysis
 
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Marketing](https://img.shields.io/badge/-Marketing_Analytics-0A66C2?style=flat-square&logoColor=white)
+
 Analyse comportementale de 2 000+ clients — segmentation par profil d'achat, canaux préférés et sensibilité aux campagnes marketing. 5 pages interactives : Problem Statement, Purchase Drivers, Buyer Composition, Campaign Performance.
-Cas d'usage : DAF / Direction Marketing cherchant à optimiser le ROI des campagnes par segment client.
+
+📌 **Cas d'usage** : DAF / Direction Marketing cherchant à optimiser le ROI des campagnes par segment client.
 
 <img width="800" alt="Finance & Campaign Analysis" src="https://github.com/user-attachments/assets/eb65ee03-f56f-4b33-b300-b485ebb023a9" />
 
-**[→ Voir le projet](https://github.com/smail-erdg/powerbi-finance-campaign-analysis)**
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Finance%20%26%20Campaign%20Analysis&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Finance%20%26%20Campaign%20Analysis%22.%0A%0AMerci%20%21)
+
+<br>
+
+---
 
 <br>
 
 ### 🪙 Crypto Dashboard
 
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Finance](https://img.shields.io/badge/-March%C3%A9s_Financiers-0A66C2?style=flat-square&logoColor=white)
+
 Dashboard de suivi en temps réel des principales cryptomonnaies — évolution des prix, volumes, volatilité et comparaisons inter-actifs. Conçu pour une lecture rapide et une prise de décision agile.
-Cas d'usage : Investisseurs particuliers ou analystes cherchant une vue consolidée du marché crypto.
 
-<img width="800" height="450" alt="Cryptocurrencies-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/679cbf37-ee98-4fef-8ec6-710ec90eb912" />
+📌 **Cas d'usage** : Investisseurs particuliers ou analystes cherchant une vue consolidée du marché crypto.
 
-**[→ Voir le projet](https://github.com/smail-erdg/powerbi-crypto-dashboard)**
+<img width="800" height="450" alt="Crypto Dashboard" src="https://github.com/user-attachments/assets/679cbf37-ee98-4fef-8ec6-710ec90eb912" />
+
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Crypto%20Dashboard&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Crypto%20Dashboard%22.%0A%0AMerci%20%21)
+
+<br>
+
+---
 
 <br>
 
 ### 🏠 Housing Market Analysis
 
-Analyse du marché immobilier résidentiel — prix au m², distribution géographique, tendances par type de bien et segmentation par gamme de prix. Modèle de données optimisé pour l'exploration multi-dimensionnelle.
-Cas d'usage : Agents immobiliers, investisseurs ou analystes marché.
-<img width="700" height="394" alt="housing-compressed" src="https://github.com/user-attachments/assets/f74c892e-2036-4535-b8fc-ede78de66e17" />
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Immobilier](https://img.shields.io/badge/-Immobilier-0A66C2?style=flat-square&logoColor=white)
 
-**[→ Voir le projet](https://github.com/smail-erdg/powerbi-housing-analysis)**
+Analyse du marché immobilier résidentiel — prix au m², distribution géographique, tendances par type de bien et segmentation par gamme de prix. Modèle de données optimisé pour l'exploration multi-dimensionnelle.
+
+📌 **Cas d'usage** : Agents immobiliers, investisseurs ou analystes marché.
+
+<img width="700" height="394" alt="Housing Market Analysis" src="https://github.com/user-attachments/assets/f74c892e-2036-4535-b8fc-ede78de66e17" />
+
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Housing%20Market%20Analysis&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Housing%20Market%20Analysis%22.%0A%0AMerci%20%21)
+
+<br>
+
+---
 
 <br>
 
 ### 🛒 Store Sales Dashboard
 
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Retail](https://img.shields.io/badge/-Retail-0A66C2?style=flat-square&logoColor=white)
+
 Dashboard de pilotage des ventes retail — CA par région, catégorie et période, suivi des objectifs, analyse des écarts et top produits. Conçu pour un suivi opérationnel quotidien.
-Cas d'usage : Direction commerciale, contrôleurs de gestion retail.
-<img width="700" height="394" alt="sales-compressed" src="https://github.com/user-attachments/assets/04299195-edc4-436f-b65a-4188d43f3c31" />
 
-**[→ Voir le projet](https://github.com/smail-erdg/powerbi-store-sales)**
+📌 **Cas d'usage** : Direction commerciale, contrôleurs de gestion retail.
 
----
+<img width="700" height="394" alt="Store Sales Dashboard" src="https://github.com/user-attachments/assets/04299195-edc4-436f-b65a-4188d43f3c31" />
+
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Store%20Sales%20Dashboard&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Store%20Sales%20Dashboard%22.%0A%0AMerci%20%21)
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:0A66C2&height=3&section=header)
 
 ## 🎯 En ce moment
 
@@ -86,7 +118,7 @@ Cas d'usage : Direction commerciale, contrôleurs de gestion retail.
 - 📈 Approfondissement DAX avancé (time intelligence, calculation groups)
 - ✍️ Publication régulière de contenu Power BI / contrôle de gestion sur LinkedIn
 
----
+<br>
 
 ## 📫 Me contacter
 
