@@ -52,7 +52,8 @@ Analyse comportementale de 2 000+ clients — segmentation par profil d'achat, c
 
 <img width="800" alt="Finance & Campaign Analysis" src="https://github.com/user-attachments/assets/eb65ee03-f56f-4b33-b300-b485ebb023a9" />
 
-[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Finance%20%26%20Campaign%20Analysis&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Finance%20%26%20Campaign%20Analysis%22.%0A%0AMerci%20%21)
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Finance%20%26%20Campaign%20Analysis)
+<br>📧 Ou écris directement à **boutahorsmail@gmail.com**
 
 <br>
 
@@ -70,7 +71,8 @@ Dashboard de suivi en temps réel des principales cryptomonnaies — évolution 
 
 <img width="800" height="450" alt="Crypto Dashboard" src="https://github.com/user-attachments/assets/679cbf37-ee98-4fef-8ec6-710ec90eb912" />
 
-[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Crypto%20Dashboard&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Crypto%20Dashboard%22.%0A%0AMerci%20%21)
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Crypto%20Dashboard)
+<br>📧 Ou écris directement à **boutahorsmail@gmail.com**
 
 <br>
 
@@ -88,7 +90,8 @@ Analyse du marché immobilier résidentiel — prix au m², distribution géogra
 
 <img width="700" height="394" alt="Housing Market Analysis" src="https://github.com/user-attachments/assets/f74c892e-2036-4535-b8fc-ede78de66e17" />
 
-[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Housing%20Market%20Analysis&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Housing%20Market%20Analysis%22.%0A%0AMerci%20%21)
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Housing%20Market%20Analysis)
+<br>📧 Ou écris directement à **boutahorsmail@gmail.com**
 
 <br>
 
@@ -106,7 +109,8 @@ Dashboard de pilotage des ventes retail — CA par région, catégorie et pério
 
 <img width="700" height="394" alt="Store Sales Dashboard" src="https://github.com/user-attachments/assets/04299195-edc4-436f-b65a-4188d43f3c31" />
 
-[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Store%20Sales%20Dashboard&body=Bonjour%20Smail%2C%0A%0AJe%20souhaite%20recevoir%20le%20rapport%20Power%20BI%20%22Store%20Sales%20Dashboard%22.%0A%0AMerci%20%21)
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](mailto:boutahorsmail@gmail.com?subject=Demande%20-%20Rapport%20Store%20Sales%20Dashboard)
+<br>📧 Ou écris directement à **boutahorsmail@gmail.com**
 
 <br>
 
