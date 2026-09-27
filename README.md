@@ -62,7 +62,9 @@ Cas d'usage : Investisseurs particuliers ou analystes cherchant une vue consolid
 
 ### 🏠 Housing Market Analysis
 
-Analyse du marché immobilier : prix, tendances par zone géographique et facteurs qui influencent la valeur des biens.
+Analyse du marché immobilier résidentiel — prix au m², distribution géographique, tendances par type de bien et segmentation par gamme de prix. Modèle de données optimisé pour l'exploration multi-dimensionnelle.
+Cas d'usage : Agents immobiliers, investisseurs ou analystes marché.
+<img width="700" height="394" alt="housing-compressed" src="https://github.com/user-attachments/assets/f74c892e-2036-4535-b8fc-ede78de66e17" />
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-housing-analysis)**
 
