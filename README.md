@@ -40,7 +40,8 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 
 ### 📈 Finance & Campaign Analysis
 
-Analyse marketing et clients : segmentation des acheteurs, moteurs d'achat, et performance des campagnes marketing sur 5 pages interactives.
+Analyse comportementale de 2 000+ clients — segmentation par profil d'achat, canaux préférés et sensibilité aux campagnes marketing. 5 pages interactives : Problem Statement, Purchase Drivers, Buyer Composition, Campaign Performance.
+Cas d'usage : DAF / Direction Marketing cherchant à optimiser le ROI des campagnes par segment client.
 
 <img width="800" alt="Finance & Campaign Analysis" src="https://github.com/user-attachments/assets/eb65ee03-f56f-4b33-b300-b485ebb023a9" />
 
