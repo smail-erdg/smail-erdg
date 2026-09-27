@@ -1,7 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=220&section=header&text=Smail%20Boutahor&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Consultant%20Freelance%20Power%20BI%20%7C%20Contr%C3%B4le%20de%20Gestion&descAlignY=45&descSize=20)
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=250&section=header&text=Smail%20Boutahor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Consultant%20Freelance%20Power%20BI%20%7C%20Contr%C3%B4le%20de%20Gestion&descAlignY=52&descSize=20)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Consultant+Freelance+Power+BI+%F0%9F%93%8A;Expert+DAX+%26+Power+Query;Fondateur+de+SB+BI+Solutions;Je+transforme+la+donn%C3%A9e+en+d%C3%A9cision)](https://git.io/typing-svg)
 
 [![LinkedIn Perso](https://img.shields.io/badge/LinkedIn-Smail%20Boutahor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smail-boutahor-6996ab276/)
