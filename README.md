@@ -72,7 +72,9 @@ Cas d'usage : Agents immobiliers, investisseurs ou analystes marché.
 
 ### 🛒 Store Sales Dashboard
 
-Dashboard de pilotage des ventes retail : chiffre d'affaires, performance par magasin et par produit, KPI commerciaux clés.
+Dashboard de pilotage des ventes retail — CA par région, catégorie et période, suivi des objectifs, analyse des écarts et top produits. Conçu pour un suivi opérationnel quotidien.
+Cas d'usage : Direction commerciale, contrôleurs de gestion retail.
+<img width="700" height="394" alt="sales-compressed" src="https://github.com/user-attachments/assets/04299195-edc4-436f-b65a-4188d43f3c31" />
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-store-sales)**
 
