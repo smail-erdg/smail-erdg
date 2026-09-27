@@ -53,8 +53,7 @@ Cas d'usage : DAF / Direction Marketing cherchant à optimiser le ROI des campag
 
 Dashboard de suivi en temps réel des principales cryptomonnaies — évolution des prix, volumes, volatilité et comparaisons inter-actifs. Conçu pour une lecture rapide et une prise de décision agile.
 Cas d'usage : Investisseurs particuliers ou analystes cherchant une vue consolidée du marché crypto.
-
-
+![Uploading Cryptocurrencies-ezgif.com-video-to-gif-converter.gif…]()
 
 **[→ Voir le projet](https://github.com/smail-erdg/powerbi-crypto-dashboard)**
 
