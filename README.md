@@ -44,7 +44,7 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 
 ### 📈 Finance & Campaign Analysis
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Marketing](https://img.shields.io/badge/-📊_Marketing_Analytics-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Marketing](https://img.shields.io/badge/-Marketing_Analytics-0A66C2?style=flat-square&logoColor=white)
 
 Analyse comportementale de 2 000+ clients, segmentation par profil d'achat, canaux préférés et sensibilité aux campagnes marketing. 5 pages interactives : Problem Statement, Purchase Drivers, Buyer Composition, Campaign Performance.
 
@@ -62,7 +62,7 @@ Analyse comportementale de 2 000+ clients, segmentation par profil d'achat, cana
 
 ### 🪙 Crypto Dashboard
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Finance](https://img.shields.io/badge/-💹_March%C3%A9s_Financiers-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Finance](https://img.shields.io/badge/-March%C3%A9s_Financiers-0A66C2?style=flat-square&logoColor=white)
 
 Dashboard de suivi en temps réel des principales cryptomonnaies, évolution des prix, volumes, volatilité et comparaisons inter-actifs. Conçu pour une lecture rapide et une prise de décision agile.
 
@@ -80,7 +80,7 @@ Dashboard de suivi en temps réel des principales cryptomonnaies, évolution des
 
 ### 🏠 Housing Market Analysis
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Immobilier](https://img.shields.io/badge/-🏘️_Immobilier-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Immobilier](https://img.shields.io/badge/-Immobilier-0A66C2?style=flat-square&logoColor=white)
 
 Analyse du marché immobilier résidentiel, prix au m², distribution géographique, tendances par type de bien et segmentation par gamme de prix. Modèle de données optimisé pour l'exploration multi-dimensionnelle.
 
@@ -98,7 +98,7 @@ Analyse du marché immobilier résidentiel, prix au m², distribution géographi
 
 ### 🛒 Store Sales Dashboard
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Retail](https://img.shields.io/badge/-🛍️_Retail-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Retail](https://img.shields.io/badge/-Retail-0A66C2?style=flat-square&logoColor=white)
 
 Dashboard de pilotage des ventes retail, CA par région, catégorie et période, suivi des objectifs, analyse des écarts et top produits. Conçu pour un suivi opérationnel quotidien.
 
@@ -114,9 +114,9 @@ Dashboard de pilotage des ventes retail, CA par région, catégorie et période,
 
 ## 🎯 En ce moment
 
-- 🚀 Développement de mon offre de conseil freelance **SB BI Solutions**
-- 📈 Approfondissement DAX avancé (time intelligence, calculation groups)
-- ✍️ Publication régulière de contenu Power BI / contrôle de gestion sur LinkedIn
+* 🚀 Développement de mon offre de conseil freelance **SB BI Solutions**
+* 📈 Approfondissement DAX avancé (time intelligence, calculation groups)
+* ✍️ Publication régulière de contenu Power BI / contrôle de gestion sur LinkedIn
 
 <br>
 
