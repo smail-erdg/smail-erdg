@@ -1,6 +1,7 @@
 <div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=250&section=header&text=Smail%20Boutahor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Consultant%20Freelance%20Power%20BI%20%7C%20Contr%C3%B4le%20de%20Gestion&descAlignY=52&descSize=20)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Consultant+Freelance+Power+BI+%F0%9F%93%8A;Expert+DAX+%26+Power+Query;Fondateur+de+SB+BI+Solutions;Je+transforme+la+donn%C3%A9e+en+d%C3%A9cision)](https://git.io/typing-svg)
 
 [![LinkedIn Perso](https://img.shields.io/badge/LinkedIn-Smail%20Boutahor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smail-boutahor-6996ab276/)
@@ -43,9 +44,9 @@ Sous la marque **SB BI Solutions**, j'accompagne les PME/ETI et les fonctions fi
 
 ### 📈 Finance & Campaign Analysis
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Marketing](https://img.shields.io/badge/-Marketing_Analytics-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Marketing](https://img.shields.io/badge/-📊_Marketing_Analytics-0A66C2?style=flat-square&logoColor=white)
 
-Analyse comportementale de 2 000+ clients — segmentation par profil d'achat, canaux préférés et sensibilité aux campagnes marketing. 5 pages interactives : Problem Statement, Purchase Drivers, Buyer Composition, Campaign Performance.
+Analyse comportementale de 2 000+ clients, segmentation par profil d'achat, canaux préférés et sensibilité aux campagnes marketing. 5 pages interactives : Problem Statement, Purchase Drivers, Buyer Composition, Campaign Performance.
 
 📌 **Cas d'usage** : DAF / Direction Marketing cherchant à optimiser le ROI des campagnes par segment client.
 
@@ -61,9 +62,9 @@ Analyse comportementale de 2 000+ clients — segmentation par profil d'achat, c
 
 ### 🪙 Crypto Dashboard
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Finance](https://img.shields.io/badge/-March%C3%A9s_Financiers-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Finance](https://img.shields.io/badge/-💹_March%C3%A9s_Financiers-0A66C2?style=flat-square&logoColor=white)
 
-Dashboard de suivi en temps réel des principales cryptomonnaies — évolution des prix, volumes, volatilité et comparaisons inter-actifs. Conçu pour une lecture rapide et une prise de décision agile.
+Dashboard de suivi en temps réel des principales cryptomonnaies, évolution des prix, volumes, volatilité et comparaisons inter-actifs. Conçu pour une lecture rapide et une prise de décision agile.
 
 📌 **Cas d'usage** : Investisseurs particuliers ou analystes cherchant une vue consolidée du marché crypto.
 
@@ -79,9 +80,9 @@ Dashboard de suivi en temps réel des principales cryptomonnaies — évolution 
 
 ### 🏠 Housing Market Analysis
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Immobilier](https://img.shields.io/badge/-Immobilier-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Immobilier](https://img.shields.io/badge/-🏘️_Immobilier-0A66C2?style=flat-square&logoColor=white)
 
-Analyse du marché immobilier résidentiel — prix au m², distribution géographique, tendances par type de bien et segmentation par gamme de prix. Modèle de données optimisé pour l'exploration multi-dimensionnelle.
+Analyse du marché immobilier résidentiel, prix au m², distribution géographique, tendances par type de bien et segmentation par gamme de prix. Modèle de données optimisé pour l'exploration multi-dimensionnelle.
 
 📌 **Cas d'usage** : Agents immobiliers, investisseurs ou analystes marché.
 
@@ -97,9 +98,9 @@ Analyse du marché immobilier résidentiel — prix au m², distribution géogra
 
 ### 🛒 Store Sales Dashboard
 
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![Retail](https://img.shields.io/badge/-Retail-0A66C2?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square&logo=microsoft&logoColor=F2C811) ![Retail](https://img.shields.io/badge/-🛍️_Retail-0A66C2?style=flat-square&logoColor=white)
 
-Dashboard de pilotage des ventes retail — CA par région, catégorie et période, suivi des objectifs, analyse des écarts et top produits. Conçu pour un suivi opérationnel quotidien.
+Dashboard de pilotage des ventes retail, CA par région, catégorie et période, suivi des objectifs, analyse des écarts et top produits. Conçu pour un suivi opérationnel quotidien.
 
 📌 **Cas d'usage** : Direction commerciale, contrôleurs de gestion retail.
 
