@@ -120,8 +120,8 @@ Dashboard de pilotage des ventes retail, CA par région, catégorie et période,
 Tableau de bord RH complet analysant les effectifs (headcount), la rétention et le turnover sur plusieurs années. 4 pages interactives : Cover Page, Headcount, Retention, Turnover, avec filtres dynamiques par département, niveau de poste, éducation et autres dimensions démographiques.
 
 📌 **Cas d'usage** : Direction RH / People Analytics cherchant à identifier les tendances d'attrition, comparer la rétention par population et bâtir des stratégies de fidélisation des talents.
+<img width="700" height="394" alt="hr_output" src="https://github.com/user-attachments/assets/7a55d5e3-79cd-41f6-a463-e068690e4f4b" />
 
-<img width="800" alt="HR Analytics Report" src="COLLE_ICI_LE_LIEN_GENERE_PAR_GITHUB" />
 
 [![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSfrWSQZopcLOyCkhCkhhUc2MDidY0ayeoxj_7BFFQ1IcIZH8A/viewform)
 
