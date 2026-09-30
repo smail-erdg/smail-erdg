@@ -109,6 +109,24 @@ Dashboard de pilotage des ventes retail, CA par région, catégorie et période,
 
 <br>
 
+---
+
+<br>
+
+### 👥 HR Analytics Report
+
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-232F3E?style=flat-square) ![RH](https://img.shields.io/badge/-RH_%2F_People_Analytics-0A66C2?style=flat-square&logoColor=white)
+
+Tableau de bord RH complet analysant les effectifs (headcount), la rétention et le turnover sur plusieurs années. 4 pages interactives : Cover Page, Headcount, Retention, Turnover, avec filtres dynamiques par département, niveau de poste, éducation et autres dimensions démographiques.
+
+📌 **Cas d'usage** : Direction RH / People Analytics cherchant à identifier les tendances d'attrition, comparer la rétention par population et bâtir des stratégies de fidélisation des talents.
+
+<img width="800" alt="HR Analytics Report" src="COLLE_ICI_LE_LIEN_GENERE_PAR_GITHUB" />
+
+[![Demander ce rapport](https://img.shields.io/badge/📩_Recevoir_ce_rapport-0A66C2?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSfrWSQZopcLOyCkhCkhhUc2MDidY0ayeoxj_7BFFQ1IcIZH8A/viewform)
+
+<br>
+
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:0A66C2&height=3&section=header)
 
 ## 🎯 En ce moment
