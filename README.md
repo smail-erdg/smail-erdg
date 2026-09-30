@@ -124,9 +124,9 @@ Dashboard de pilotage des ventes retail, CA par région, catégorie et période,
 
 <div align="center">
 
-[![LinkedIn Perso](https://img.shields.io/badge/LinkedIn-Smail%20Boutahor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smail-boutahor-6996ab276/)
-[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-SB%20BI%20Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sb-bi-solutions/)
-[![Email](https://img.shields.io/badge/Email-boutahorsmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutahorsmail@gmail.com)
+[![LinkedIn Perso](https://img.shields.io/badge/LinkedIn-Smail%20Boutahor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/smail-boutahor-6996ab276/)
+[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-SB%20BI%20Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/company/sb-bi-solutions/)
+[![Email](https://img.shields.io/badge/Email-boutahorsmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:boutahorsmail@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:0A66C2&height=100&section=footer)
 
