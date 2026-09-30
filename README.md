@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Consultant+Freelance+Power+BI+%F0%9F%93%8A;Expert+DAX+%26+Power+Query;Fondateur+de+SB+BI+Solutions;Je+transforme+la+donn%C3%A9e+en+d%C3%A9cision)](https://git.io/typing-svg)
 
-[![LinkedIn Perso](https://img.shields.io/badge/LinkedIn-Smail%20Boutahor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smail-boutahor-6996ab276/)
-[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-SB%20BI%20Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sb-bi-solutions/)
-[![Email](https://img.shields.io/badge/Email-boutahorsmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutahorsmail@gmail.com)
+[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" style="vertical-align:middle"/> **Smail Boutahor**](https://www.linkedin.com/in/smail-boutahor-6996ab276/) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" style="vertical-align:middle"/> **SB BI Solutions**](https://www.linkedin.com/company/sb-bi-solutions/) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/gmail.png" width="20" style="vertical-align:middle"/> **boutahorsmail@gmail.com**](mailto:boutahorsmail@gmail.com)
 ![Visiteurs](https://komarev.com/ghpvc/?username=smail-erdg&style=for-the-badge&color=0A66C2&label=VISITEURS)
 
 </div>
