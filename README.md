@@ -124,9 +124,9 @@ Dashboard de pilotage des ventes retail, CA par région, catégorie et période,
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" align="center"/> **Smail Boutahor**](https://www.linkedin.com/in/smail-boutahor-6996ab276/) &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" align="center"/> **SB BI Solutions**](https://www.linkedin.com/company/sb-bi-solutions/) &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/gmail.png" width="20" align="center"/> **boutahorsmail@gmail.com**](mailto:boutahorsmail@gmail.com)
+[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" style="vertical-align:middle"/> **Smail Boutahor**](https://www.linkedin.com/in/smail-boutahor-6996ab276/) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" style="vertical-align:middle"/> **SB BI Solutions**](https://www.linkedin.com/company/sb-bi-solutions/) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/gmail.png" width="20" style="vertical-align:middle"/> **boutahorsmail@gmail.com**](mailto:boutahorsmail@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:0A66C2&height=100&section=footer)
 
