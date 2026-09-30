@@ -7,7 +7,7 @@
 [<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" style="vertical-align:middle"/> **Smail Boutahor**](https://www.linkedin.com/in/smail-boutahor-6996ab276/) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/linkedin.png" width="20" style="vertical-align:middle"/> **SB BI Solutions**](https://www.linkedin.com/company/sb-bi-solutions/) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/gmail.png" width="20" style="vertical-align:middle"/> **boutahorsmail@gmail.com**](mailto:boutahorsmail@gmail.com) &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/visiteurs.png" width="18" style="vertical-align:middle"/> ![Visiteurs](https://komarev.com/ghpvc/?username=smail-erdg&style=for-the-badge&color=0A66C2&label=VISITEURS)
+<img src="https://raw.githubusercontent.com/smail-erdg/smail-erdg/main/visiteurs.png" width="22" style="vertical-align:middle"/>
 </div>
 
 <br>
